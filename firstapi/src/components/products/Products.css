@@ -1,0 +1,17 @@
+.container{
+    padding:10px;
+    
+   
+}
+.minicontainer{
+    width: 1100px;
+    height: 300px;
+    box-shadow: 0 0 10px black;
+    margin: 20px auto;
+   
+}
+.addproductscontainer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

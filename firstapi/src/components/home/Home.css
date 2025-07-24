@@ -1,0 +1,12 @@
+#secimage{
+    background-image: url("https://img.freepik.com/premium-photo/toy-shopping-trolley-with-colourful-packets_23-2147955541.jpg?ga=GA1.1.528222742.1733499379&semt=ais_hybrid");
+    background-size: cover;
+    height: 100vh;
+    padding: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

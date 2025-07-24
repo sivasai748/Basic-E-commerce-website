@@ -1,0 +1,28 @@
+.productdetailsconainer{
+    width: 1000px;
+    height: 450px;
+    box-shadow: 0 0 10px burlywood;
+    margin: 20px auto;
+    margin-top: 50px;
+    padding:10px;
+    display: flex;
+    
+}
+
+.leftcont{
+    width: 30%;
+ 
+    
+
+}
+.leftcont:hover{
+    transform: scale(1.1);
+    transition:2s
+}
+.rightcont{
+    width: 70%;
+   padding-left:30px;
+   margin: 10px auto;
+
+
+}

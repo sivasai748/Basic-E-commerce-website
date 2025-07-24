@@ -1,0 +1,16 @@
+.profiledivcont{
+    display: flex;
+    width: 1000px;
+    height: 400px;
+   
+    margin: 20px auto;
+}
+.leftdiv{
+    width: 30%;
+}
+.leftdiv Link{
+    text-decoration: none;
+}
+.rightdiv{
+    width: 70%;
+}
